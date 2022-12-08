@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5E213E51-3A23-40D0-A2E7-D8FD95D655BF}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="rest_api/Models/ErrorViewModel.cs">
+    <Files>
+      <File FileName="rest_api/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="rest_api/Models/ErrorViewModel.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="rest_api" expanded="True">
+            <Node name="rest_api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ErrorViewModel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.rest__api PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+</Properties>
