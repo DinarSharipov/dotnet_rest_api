@@ -29,3 +29,10 @@
 /Users/dinar/dotnet_rest_api/restFull/obj/Debug/net7.0/restFull.pdb
 /Users/dinar/dotnet_rest_api/restFull/obj/Debug/net7.0/restFull.genruntimeconfig.cache
 /Users/dinar/dotnet_rest_api/restFull/obj/Debug/net7.0/ref/restFull.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/net7.0/Swashbukle.AspNetCore.dll
+/Users/dinar/dotnet_rest_api/restFull/obj/Debug/net7.0/restFull.MvcApplicationPartsAssemblyInfo.cs
+/Users/dinar/dotnet_rest_api/restFull/obj/Debug/net7.0/restFull.csproj.CopyComplete

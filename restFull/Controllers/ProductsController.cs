@@ -16,6 +16,43 @@ namespace restFull.Controllers
 
 		[HttpGet]
 		public IEnumerable<Product> Get() => products;
+
+		[HttpGet("{id}")]
+		public IActionResult Get(int id)
+		{
+			var product = products.SingleOrDefault((product) => product.Id == id);
+
+			if(product == null)
+			{
+				return NotFound(new { Message = "Ничего не найдено..." });
+			}
+
+			return Ok(product);
+		}
+
+		[HttpDelete("{id}")]
+		public IActionResult Delete(int id)
+		{
+			var removedProduct = products.SingleOrDefault((product) => product.Id == id);
+			if (removedProduct != null)
+			{
+                products.Remove(removedProduct);
+            }
+		
+			return Ok();
+		}
+
+		[HttpPost]
+		public IActionResult Post(Product product)
+		{
+			if(!ModelState.IsValid)
+			{
+				return BadRequest(ModelState);
+			}
+			product.Id = products.Count() + 1;
+            products.Add(product);
+			return Ok();
+		}
 	}
 }
 
