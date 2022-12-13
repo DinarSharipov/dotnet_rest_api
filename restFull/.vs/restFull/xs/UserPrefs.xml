@@ -1,29 +1,33 @@
-﻿<Properties StartupConfiguration="{9F906053-B41A-4788-9138-2EF966781863}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.restFull PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Product.cs">
+﻿<Properties StartupConfiguration="{84046A0B-F65E-45F5-9A07-89884F307523}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
     <Files>
-      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
-      <File FileName="Controllers/EmptyStruct.cs" Line="6" Column="3" />
-      <File FileName="Models/ErrorViewModel.cs" Line="1" Column="1" />
-      <File FileName="Models/Product.cs" Line="6" Column="19" />
+      <File FileName="Controllers/ProductsController.cs" />
+      <File FileName="Models/Product.cs" />
+      <File FileName="restFull.csproj" Line="20" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Dockerfile" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="restFull" expanded="True">
+            <Node name="docker-compose" expanded="True" />
             <Node name="restFull" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Product.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.restFull PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
