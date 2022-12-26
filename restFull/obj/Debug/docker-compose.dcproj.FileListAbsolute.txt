@@ -1,0 +1,15 @@
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/restFull.deps.json
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/restFull.runtimeconfig.json
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/appsettings.Development.json
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/appsettings.json
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/restFull.staticwebassets.runtime.json
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/restFull
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/restFull.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/Swashbuckle.AspNetCore.Swagger.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/Microsoft.OpenApi.dll
+/Users/dinar/dotnet_rest_api/restFull/bin/Debug/restFull.pdb
+/Users/dinar/dotnet_rest_api/restFull/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/dinar/dotnet_rest_api/restFull/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/dinar/dotnet_rest_api/restFull/obj/Debug/docker-compose.dcproj.CopyComplete
