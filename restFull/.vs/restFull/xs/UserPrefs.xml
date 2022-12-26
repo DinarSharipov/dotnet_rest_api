@@ -1,11 +1,18 @@
 ﻿<Properties StartupConfiguration="{84046A0B-F65E-45F5-9A07-89884F307523}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dockerfile">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.restFull PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProductsController.cs">
     <Files>
-      <File FileName="Controllers/ProductsController.cs" />
+      <File FileName="Controllers/ProductsController.cs" Line="33" Column="23" />
       <File FileName="Models/Product.cs" />
-      <File FileName="restFull.csproj" Line="20" Column="1" />
+      <File FileName="restFull.csproj" />
       <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="Dockerfile" Line="1" Column="1" />
+      <File FileName="Dockerfile" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +20,9 @@
           <Node name="restFull" expanded="True">
             <Node name="docker-compose" expanded="True" />
             <Node name="restFull" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ProductsController.cs" selected="True" />
+              </Node>
               <Node name="Models" expanded="True" />
               <Node name="Properties" expanded="True" />
             </Node>
@@ -22,12 +31,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.restFull PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
